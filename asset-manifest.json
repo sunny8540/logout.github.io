@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/logout.github.io/static/css/main.60cdd0d5.css",
+    "main.js": "/logout.github.io/static/js/main.65126709.js",
+    "index.html": "/logout.github.io/index.html",
+    "main.60cdd0d5.css.map": "/logout.github.io/static/css/main.60cdd0d5.css.map",
+    "main.65126709.js.map": "/logout.github.io/static/js/main.65126709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60cdd0d5.css",
+    "static/js/main.65126709.js"
+  ]
+}
